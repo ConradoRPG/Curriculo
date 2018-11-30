@@ -1,0 +1,54 @@
+/* Configurações gerais*/
+
+html, body {
+    margin: 5;
+    padding: 0;
+}
+
+body {
+    font-family: verdana, arial, sans-serif;
+}
+
+/* Menu de navegação principal*/
+
+nav#menu ul#listalinks {
+    list-style-type: none;
+    overflow: hidden;
+    background-color: grey;
+    
+}
+
+li.menuli  {
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+    padding: 8px;
+    float: center;
+}
+
+li.menuli a  {
+    text-decoration: none;
+    color: white;
+}
+
+li.menuli a:hover {
+    background-color: white;
+    color: grey;
+}
+
+/* Seção Dados Pessoais*/
+
+/* Seção Formação Academica*/
+
+/* Seção Experiência Profissional*/
+
+/*Seção de cursos realizados*/
+
+section#cursos ul.listacursos {
+
+    list-style: square;
+    
+    
+}
+
+/* Seção de Informações Adicionais*/
